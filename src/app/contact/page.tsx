@@ -1,7 +1,7 @@
 import React from "react";
 
 const ContactPage = () => {
-  return <div>Contact app</div>;
+  return <div>Contact fullstack app</div>;
 };
 
 export default ContactPage;
